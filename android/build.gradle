@@ -4,8 +4,8 @@ version '1.0-SNAPSHOT'
 buildscript {
     ext {
         // Define default versions
-        gradle_version = '4.2.2'
-        kotlin_version = '1.9.0'
+        gradle_version = '8.11.1'
+        kotlin_version = '1.9.10'
     }
     repositories {
         google()
